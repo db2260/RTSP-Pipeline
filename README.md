@@ -1,4 +1,4 @@
-** Setup Steps **
+**Setup Steps**
 
 1. Commands
 
